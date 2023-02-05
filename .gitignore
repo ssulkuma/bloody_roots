@@ -10,6 +10,7 @@
 
 # Visual Studio cache directory
 .vs/
+.vscode
 
 # Gradle cache directory
 .gradle/
@@ -46,3 +47,11 @@ sysinfo.txt
 
 # Crashlytics generated file
 crashlytics-build.properties
+
+.DS_Store
+blood_roots_ggj.zip
+blood_roots_ggj/
+bloody_roots_ggj.zip
+bloody_roots_ggj/
+mono_crash.2ef6cb042.0.json
+mono_crash.mem.61502.1.blob
